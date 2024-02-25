@@ -1,6 +1,5 @@
 ## NETFLIX Movies and TV_Shows
 ![NETFLIX](https://github.com/md-sadik-hossen/Netflix-Movies-and-TV-Shows/blob/main/images/netflix_page_cover.jpg)
- https://github.com/md-sadik-hossen/Netflix-Movies-and-TV-Shows/blob/main/images/netflix_page_cover.jpg
 
 ### Business Problem <br>
 - To analyze the data and generate insights that could help Netflix decide which type of shows/movies to produce and how they can grow the business in different countries.<br>
@@ -40,7 +39,7 @@ From 2012 to 2018, It shows a rapid expansion in the entertainment industry.
 - More recent years show a trend towards shorter average durations, with 2020 and 2021 having average durations of 92.1 and 96.4 minutes, respectively.
 
 ### Content Ages Distribution
-![NETFLIX](https://github.com/md-sadik-hossen/Netflix-Movies-and-TV-Shows/blob/main/images/8.1%20Ages%20Distribution.png)
+![NETFLIX](https://github.com/md-sadik-hossen/Netflix-Movies-and-TV-Shows/blob/main/images/10.3%20Word%20Frequency%20Analysis%20of%20Netflix%20Description%20After%202012.png)
 Among content, Adults comprise 46.54%, while Teens account for 30.09%. Older Kids and Kids constitute 16.92% and 6.45%, respectively. Recommendations may prioritize adult and teen-oriented content.
 
 ### Movies and TV Shows Added Across Each Day
@@ -65,6 +64,7 @@ Before 2012, "young" in Netflix content suggests a recurring theme of youth expe
 ### Recommendation System
 Various techniques are used in recommendation systems, such as Collaborative Filtering, Content-Based Filtering, and Hybrid Recommendation Systems. Each technique aims to predict or recommend products, such as movies or music, to consumers. We specifically focus on Content-Based Filtering.
 **Multiple Content-Based Recommendation System**
+
 ![NETFLIX](https://github.com/md-sadik-hossen/Netflix-Movies-and-TV-Shows/blob/main/images/Recommendation%20system.JPG)
 
 Initially, we employed the TF-IDF method. However, applying TF-IDF solely on the content descriptions yielded unexpected results. This outcome might be attributed to the nature of the content descriptions, which were primarily summaries. Had the descriptions contained more comprehensive information about each movie, I believe this method would have demonstrated better performance.
