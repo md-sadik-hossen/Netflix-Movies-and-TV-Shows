@@ -1,4 +1,4 @@
-## NETFLIX Movies and TV_Shows
+## NETFLIX Movies and TV_Shows (Summarized)
 ![NETFLIX](https://github.com/md-sadik-hossen/Netflix-Movies-and-TV-Shows/blob/main/images/netflix_page_cover.jpg)
 
 ### Business Problem <br>
