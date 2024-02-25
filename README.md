@@ -27,7 +27,8 @@ To achieve the desired solution, a recommendation system will be developed by fo
 The USA dominates with 3689 titles, followed by India with 1046 titles.UK, Canada, and France also contribute significantly, with 804, 445, and 393 titles respectively. Asian countries like Japan and South Korea have notable contributions, with 318 and 231 titles respectively.
 
 ### Content Added Over the Year
-![NETFLIX](https://github.com/md-sadik-hossen/Netflix-Movies-and-TV-Shows/blob/main/images/1.3%20Content%20Added%20Over%20the%20Year%20(After%202000).png)
+![NETFLIX](https://github.com/md-sadik-hossen/Netflix-Movies-and-TV-Shows/blob/main/images/10.3%20Word%20Frequency%20Analysis%20of%20Netflix%20Description%20After%202012.png)
+
 The years 2018 and 2017 saw the highest number of show releases, with 1147 and 1032 respectively, indicating a peak in content production. <br>
 From 2012 to 2018, It shows a rapid expansion in the entertainment industry.
 
