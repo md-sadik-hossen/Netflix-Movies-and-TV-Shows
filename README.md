@@ -27,7 +27,7 @@ To achieve the desired solution, a recommendation system will be developed by fo
 The USA dominates with 3689 titles, followed by India with 1046 titles.UK, Canada, and France also contribute significantly, with 804, 445, and 393 titles respectively. Asian countries like Japan and South Korea have notable contributions, with 318 and 231 titles respectively.
 
 ### Content Added Over the Year
-![NETFLIX](https://github.com/md-sadik-hossen/Netflix-Movies-and-TV-Shows/blob/main/images/10.3%20Word%20Frequency%20Analysis%20of%20Netflix%20Description%20After%202012.png)
+![NETFLIX](https://github.com/md-sadik-hossen/Netflix-Movies-and-TV-Shows/blob/main/images/1.3%20Content%20Added%20Over%20the%20Year%20(After%202000).png)
 
 The years 2018 and 2017 saw the highest number of show releases, with 1147 and 1032 respectively, indicating a peak in content production. <br>
 From 2012 to 2018, It shows a rapid expansion in the entertainment industry.
@@ -40,7 +40,7 @@ From 2012 to 2018, It shows a rapid expansion in the entertainment industry.
 - More recent years show a trend towards shorter average durations, with 2020 and 2021 having average durations of 92.1 and 96.4 minutes, respectively.
 
 ### Content Ages Distribution
-![NETFLIX](https://github.com/md-sadik-hossen/Netflix-Movies-and-TV-Shows/blob/main/images/10.3%20Word%20Frequency%20Analysis%20of%20Netflix%20Description%20After%202012.png)
+![NETFLIX](https://github.com/md-sadik-hossen/Netflix-Movies-and-TV-Shows/blob/main/images/8.1%20Ages%20Distribution.png)
 Among content, Adults comprise 46.54%, while Teens account for 30.09%. Older Kids and Kids constitute 16.92% and 6.45%, respectively. Recommendations may prioritize adult and teen-oriented content.
 
 ### Movies and TV Shows Added Across Each Day
